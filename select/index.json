@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "默默",
+  "base_artist": "飛輪海",
+  "createdAt": "2025-12-28T14:32:50.091250Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "默默(電視劇<創業時代>插曲)",
+      "artist": "A-Lin",
+      "has_synced": true,
+      "path": "select/01_默默(電視劇_創業時代_插曲)_A-Lin.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "默默 - 電視劇《創業時代》插曲",
+      "artist": "A-Lin",
+      "has_synced": true,
+      "path": "select/02_默默_-_電視劇《創業時代》插曲_A-Lin.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "默默",
+      "artist": "飛輪海",
+      "has_synced": false,
+      "path": "select/03_默默_飛輪海.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "默默",
+      "artist": "A-Lin",
+      "has_synced": true,
+      "path": "select/04_默默_A-Lin.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "默默",
+      "artist": "蕭煌奇",
+      "has_synced": true,
+      "path": "select/05_默默_蕭煌奇.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "默默",
+      "artist": "飛輪海",
+      "has_synced": false,
+      "path": "select/pl_01_默默_飛輪海.txt"
+    }
+  ]
+}
